@@ -102,59 +102,59 @@ The safety factor $F_{\rm S}$ (`F_S`) can be calculated from Formula (10).
 
 ICSS-Slope
 
-    - main.py
+- main.py
+
+- Readme.md
+
+- calc_func_files
+
+    - calc_delta_from_H.py
     
-    - Readme.md
+    - calc_delta_from_H_star.py
     
-    - calc_func_files
+    - calc_delta_from_r_u_alpha_w.py
     
-        - calc_delta_from_H.py
-        
-        - calc_delta_from_H_star.py
-        
-        - calc_delta_from_r_u_alpha_w.py
-        
-        - calc_delta_func.py
-        
-        - calc_f_func.py
-        
-        - calc_F_s_func.py
-        
-        - check_paras_func.py
-        
-        - \_\_init\_\_.py
-        
-    - para_files
+    - calc_delta_func.py
     
-        - alpha_w=0.05.xlsx
-        
-        - alpha_w=0.10.xlsx
-        
-        - f_calc_paras.xlsx
-        
-        - r_u=0,alpha_w=0.xlsx
-        
-        - r_u=0.25.xlsx
-        
-        - r_u=0.50.xlsx
-        
-        - \_\_init\_\_.py
-        
-    - rec_files
+    - calc_f_func.py
     
-        - MainWindow.ui
-        
-        - MainWindow_ui.py
-        
-        - main_window_class.py
-        
-        - model.png
-        
-        - rec.qrc
-        
-        - rec_rc.py
-        
-        - \_\_init\_\_.py
+    - calc_F_s_func.py
+    
+    - check_paras_func.py
+    
+    - \_\_init\_\_.py
+    
+- para_files
+
+    - alpha_w=0.05.xlsx
+    
+    - alpha_w=0.10.xlsx
+    
+    - f_calc_paras.xlsx
+    
+    - r_u=0,alpha_w=0.xlsx
+    
+    - r_u=0.25.xlsx
+    
+    - r_u=0.50.xlsx
+    
+    - \_\_init\_\_.py
+    
+- rec_files
+
+    - MainWindow.ui
+    
+    - MainWindow_ui.py
+    
+    - main_window_class.py
+    
+    - model.png
+    
+    - rec.qrc
+    
+    - rec_rc.py
+    
+    - \_\_init\_\_.py
 
 ## 4. How To use the ICSS-Slope software / 如何使用 ICSS-Slope 软件
 
