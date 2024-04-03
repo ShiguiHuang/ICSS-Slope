@@ -156,7 +156,7 @@ ICSS-Slope
     
     - \_\_init\_\_.py
 
-## 4. How To use the ICSS-Slope software / 如何使用 ICSS-Slope 软件
+## 4. How to use the ICSS-Slope software / 如何使用 ICSS-Slope 软件
 
 1. As shown in the following figure, the correct parameters are input into the corresponding position. / 如下图所示，将正确的参数输入对应位置。
 
