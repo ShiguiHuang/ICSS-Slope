@@ -2,7 +2,7 @@
 
 > This software is written according to the paper ***The problem of slope stability is discussed from the perspective of slope size***, and the detailed calculation process is referred to the paper.
 >
-> 本软件根据论文 ***The problem of slope stability is discussed from the perspective of slope size (从坡形尺寸角度探讨边坡稳定性问题)***编写，详细的计算过程请查阅该论文。
+> 本软件根据论文 ***The problem of slope stability is discussed from the perspective of slope size (从坡形尺寸角度探讨边坡稳定性问题)*** 编写，详细的计算过程请查阅该论文。
 >
 > Note: The title of the paper may change later.
 >
@@ -10,7 +10,7 @@
 
 ## 0 Linear Interpolation / 线性插值法
 
-如下图所示，存在点 $(x_0,\ y_0)$ 和点 $(x_1,\ y_1)$ 以及待求点的横坐标 $x$，则可用下式计算待求点的纵坐标 $y$：
+如下图所示，存在点 $(x_0,\ y_0)$ 和点 $(x_1,\ y_1)$ 以及待求点的横坐标 $x$ ，则可用下式计算待求点的纵坐标 $y$ ：
 
 $$
 y=\frac{y_1-y_0}{x_1-x_0}\times(x-x_0) + y_0
