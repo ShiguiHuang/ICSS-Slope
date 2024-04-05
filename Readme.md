@@ -166,7 +166,25 @@ ICSS-Slope
 
    ![image-20240403212227334](markdown_img_of_Readme/image-20240403212227334.png)
 
-
+## 5. Project environment / 运行环境
+Python version \ Python 版本: Python 3.8.19
+|python package | version|
+|-|-|
+|colorama | 0.4.6|
+|et-xmlfile | 1.1.0|
+|numpy | 1.24.4|
+|openpyxl | 3.1.2|
+|pandas | 2.0.3|
+|pip | 23.3.1|
+|PyQt5 | 5.15.10|
+|PyQt5-Qt5 | 5.15.2|
+|PyQt5-sip | 12.13.0|
+|python-dateutil 2.9.0.post0|
+|pytz | 2024.1|
+|setuptools | 68.2.2|
+|six | 1.16.0|
+|tzdata | 2024.1|
+|wheel | 0.41.2|
 
 
 
