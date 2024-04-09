@@ -486,12 +486,12 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "ICSS-Slope (基于坡形影响因子的边坡安全系数计算软件)"))
         self.label.setText(_translate("MainWindow", "Input parameters of slope (输入边坡参数)"))
-        self.label_2.setText(_translate("MainWindow", "Height of slope (坡高) *H*："))
+        self.label_2.setText(_translate("MainWindow", "Slope height (坡高) *H*："))
         self.label_9.setText(_translate("MainWindow", "(Range of value (取值范围)：10~40 m)"))
-        self.label_3.setText(_translate("MainWindow", "Angle of slope (坡角) *β*："))
+        self.label_3.setText(_translate("MainWindow", "Slope angle (坡角) *β*："))
         self.label_11.setText(_translate("MainWindow", "(Range of value (取值范围)：15~55°)"))
         self.label_4.setText(_translate("MainWindow", "Cohesion (黏聚力) *c*："))
-        self.label_5.setText(_translate("MainWindow", "Gravity (重度) *γ*："))
+        self.label_5.setText(_translate("MainWindow", "Unit weight (重度) *γ*："))
         self.label_6.setText(_translate("MainWindow", "Angle of internal friction (内摩擦角) *φ*："))
         self.label_7.setText(_translate("MainWindow", "Groundwater coefficient (地下水系数) *r*<sub>u</sub>："))
         self.label_14.setText(_translate("MainWindow", "(Range of value (取值范围)：0~0.5)"))
@@ -502,6 +502,7 @@ class Ui_MainWindow(object):
         self.label_12.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; font-weight:600;\">Slope geometry and parameters diagram</span></p><p align=\"center\"><span style=\" font-size:14pt; font-weight:600;\">(边坡几何及参数示意图)</span></p></body></html>"))
         self.label_10.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; font-weight:600;\">Result of calculation (计算结果)</span></p></body></html>"))
         self.label_16.setText(_translate("MainWindow", "Factor of safety with standard slope shape (标准坡形下的安全系数) *f*："))
-        self.label_17.setText(_translate("MainWindow", "Influence coefficient of slope shape (坡形影响因子系数) *δ*："))
+        self.label_17.setText(_translate("MainWindow", "Slope shape influence factor (坡形影响因子系数) *δ*："))
         self.label_18.setText(_translate("MainWindow", "<html><head/><body><p>Final slope factor of safety (最终安全系数) <span style=\" font-style:italic;\">F</span><span style=\" vertical-align:sub;\">S</span>：</p></body></html>"))
+# import rec_rc
 from rec_files import rec_rc

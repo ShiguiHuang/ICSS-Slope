@@ -106,7 +106,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Height of slope (坡高) *H*：</string>
+          <string>Slope height (坡高) *H*：</string>
          </property>
          <property name="textFormat">
           <enum>Qt::MarkdownText</enum>
@@ -202,7 +202,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Angle of slope (坡角) *β*：</string>
+          <string>Slope angle (坡角) *β*：</string>
          </property>
          <property name="textFormat">
           <enum>Qt::MarkdownText</enum>
@@ -362,7 +362,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Gravity (重度) *γ*：</string>
+          <string>Unit weight (重度) *γ*：</string>
          </property>
          <property name="textFormat">
           <enum>Qt::MarkdownText</enum>
@@ -890,7 +890,7 @@
                 </font>
                </property>
                <property name="text">
-                <string>Influence coefficient of slope shape (坡形影响因子系数) *δ*：</string>
+                <string>Slope shape influence factor (坡形影响因子系数) *δ*：</string>
                </property>
                <property name="textFormat">
                 <enum>Qt::MarkdownText</enum>
