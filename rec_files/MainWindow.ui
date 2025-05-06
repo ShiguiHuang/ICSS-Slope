@@ -295,7 +295,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Cohesion (黏聚力) *c*：</string>
+          <string>Cohesion (黏聚力) *c* (kPa)：</string>
          </property>
          <property name="textFormat">
           <enum>Qt::MarkdownText</enum>
@@ -362,7 +362,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Unit weight (重度) *γ*：</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Unit weight (重度) &lt;span style=&quot; font-style:italic;&quot;&gt;γ&lt;/span&gt; (kN/m&lt;span style=&quot; vertical-align:super;&quot;&gt;3&lt;/span&gt;)：&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
          <property name="textFormat">
           <enum>Qt::MarkdownText</enum>
@@ -429,7 +429,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Angle of internal friction (内摩擦角) *φ*：</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Angle of internal friction (内摩擦角) &lt;span style=&quot; font-style:italic;&quot;&gt;φ&lt;/span&gt; (°)：&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
          <property name="textFormat">
           <enum>Qt::MarkdownText</enum>
